@@ -99,3 +99,5 @@
             android:text="등록"
             android:textColor="@android:color/white" />
     </LinearLayout>
+
+</androidx.constraintlayout.widget.ConstraintLayout>
